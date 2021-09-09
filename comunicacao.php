@@ -37,7 +37,7 @@
 
                     
 
-                    <div class="form-group">
+                    <div class="form-group" style="margin-top: 50px;">
                         <button onclick="window.location.href='home.php';" class="btn btn-primary btn-lg">Nova Análise</button>
                     </div>
             </form>
@@ -69,7 +69,7 @@
 
                     
 
-                    <div class="form-group">
+                    <div class="form-group" style="margin-top: 50px;">
                         <button onclick="window.location.href='home.php';" class="btn btn-primary btn-lg">Nova Análise</button>
                     </div>
             </form>

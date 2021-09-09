@@ -18,7 +18,7 @@
                 <textarea class="form-control" name="comentario" rows="3"></textarea>
             </div>
 
-            <div class="form-group">
+            <div class="form-group" style="margin-top:50px;">
                 <button type="submit" class="btn btn-primary btn-lg">Analisar Sentimento</button>
             </div>
     </form>
