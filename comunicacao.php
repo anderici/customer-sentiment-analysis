@@ -32,7 +32,7 @@
 
         <body>
                 <div class="div-conteiner" style="padding: 10px;">
-                    <h1>Sentimento BOM!</h1>
+                    <h1>Sentimento <font color="green">BOM!</font></h1>
                     <h6>Que legal! Parece que você gostou do nosso produto!</h6>
 
                     
@@ -64,7 +64,7 @@
 
         <body>
                 <div class="div-conteiner" style="padding: 10px;">
-                    <h1>Sentimento RUIM!</h1>
+                    <h1>Sentimento <font color="red">RUIM!</font></h1>
                     <h6>Que pena! Nosso suporte entrará em contato para podermos ajudá-lo!</h6>
 
                     
