@@ -11,7 +11,7 @@
     <form action="comunicacao.php" method="GET">
         <div class="div-conteiner" style="padding: 10px;">
             <h1>Análise de sentimentos com Machine Learning e Python</h1>
-            <p>Preencha o campo abaixo com o seu comentário para que possamos avaliá-lo</p>
+            <h4>Preencha o campo abaixo com o seu comentário para que possamos avaliá-lo</h4>
 
             <div class="form-group">
                 <label for="comentario">Comentário</label>
